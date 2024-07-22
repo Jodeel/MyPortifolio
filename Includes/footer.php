@@ -2,7 +2,7 @@
                 <div class="footer-col">
                     <h1>Support</h1>
                     <ul type=none>
-                        <li><a href="#"><i class="fas fa-handshake"style='font-size:20px;color:white'></i>Sponsor</li></a>
+                        <li><a href="#"><i class="fas fa-handshake"style='font-size:20px;color:white'></i>Sponsorships</li></a>
                         <li><a href="#"><i class="fas fa-grin-alt"style='font-size:20px;color:white'></i>Help</li></a>
                         <li><a href="#"><i class="far fa-newspaper"></i>Terms and Conditions</li></a>
                         <li><a href="#"><i class="fas fa-bell"style='font-size:20px;color:white'></i>Alarts</li></a>
