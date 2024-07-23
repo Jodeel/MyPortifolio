@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    Joel Kamau
-</body>
-</html>
+<?php include "Includes\Header.php" ?>
+<?php include "Includes\Navbar.php" ?>
+<?php include "Includes\Footer.php" ?>
